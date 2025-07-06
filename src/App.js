@@ -68,7 +68,7 @@ function App() {
             <img src={kisImage} alt="KIS QA" className="card-image"/>
             <div className="card-content">
               <h3>KIS - Analista QA</h3>
-              <span className="experience-date">Agosto 2024 - Marzo 2025</span>
+              <span className="experience-date">Agosto 2024 - Julio 2025</span>
               <p>Asegurar el funcionamiento de la página web del cliente utilizando herraminetas de QA y asegurar los modulos nuevos implementados.</p>
             </div>
           </div>
